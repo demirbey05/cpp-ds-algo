@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_ds main.cpp
         include/OVec.h
-        include/OStArray.h)
+        include/OStArray.h
+        include/OLinkedList.h)
